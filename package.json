@@ -1,5 +1,5 @@
 {
-  "name": "klaytn-contracts",
+  "name": "@klaytn/contracts",
   "description": "Secure Smart Contract library for Solidity",
   "version": "1.0.0",
   "files": [
@@ -44,7 +44,7 @@
     "klaytn",
     "klaytn"
   ],
-  "author": "Klaytn Community",
+  "author": "Klaytn Community <developer@klaytn.foundation>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/klaytn/klaytn-contracts/issues"
